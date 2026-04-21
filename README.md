@@ -51,7 +51,7 @@
 
 ---
 
-*废话不多说，代码见真章。*
+*废话不多说，实践见真章。*
 
 <div align="center">
 <a href="mailto:liangshangchenbro@gmail.com">
