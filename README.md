@@ -1,64 +1,32 @@
-<div align="center">
+# 🙋 你好，我是 nan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);梁上尘+祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/images/developer.svg" height="225px" />
-  <img src="./assets/images/coding.gif" />
-</picture>
-
-<div>&nbsp;</div>
-
-<div>
-  <a href="mailto:liangshangchenbro@gmail.com"><img src="https://img.shields.io/badge/邮箱-Gmail-EA4335" /></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=liangshangchen&label=Views&color=blueviolet&style=flat" alt="访问量统计" />&emsp;
-</div>
-
-</div>
-
-# 🙋 你好
-
-<table>
-<tr><td>
+> **<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=550&lines=echo+%22Hello+Agent%22+%23+Shell%3Bprint%28%22Hello+Agent%22%29+%23+Python%3Bconsole.log%28%22Hello+Agent%22%29%3B+%2f%2f+Node.js%2fJS%3Bfmt.Println%28%22Hello+Agent%22%29%3B+%2f%2f+Go%3BSystem.out.println%28%22Hello+Agent%22%29%3B+%2f%2f+Java%3B%2f%2f+Frontend%3A+Let's+build+something+cool!%3BThe+boundary+of+code+is+the+boundary+of+thought." alt="Typing SVG" /></a>**
 
 ### 🤺 关于我
 
-<img align="right" width="88" src="./assets/images/jobs.png" />
+> **"不吹不黑，单纯热爱折腾和研究技术。前后端通吃，对未知领域始终保持好奇。"**
 
-<p>&emsp;&emsp;你好，我是梁上尘（Liang Shangchen），一个实战派的全栈/后端开发者。</p>
-<p>&emsp;&emsp;目前主要聚焦于高并发系统重构、容器化架构以及基于大模型的自动化工作流构建。</p>
-<p>&emsp;&emsp;喜欢在 Linux (Ubuntu) 环境下用命令行解决问题，追求代码的极致结构与执行效率。</p>
-<p>&emsp;&emsp;<strong>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</strong></p>
+我是梁上尘 (nan)，一名喜欢钻研底层逻辑的开发者。相比于堆砌宏大的架构词汇，我更享受"造物"的过程——也就是把一个想法，从前端界面一路贯穿到后端数据库，亲手实现闭环。
 
-</td></tr>
+无论是写 Go 研究高并发、用 Python 调教 AI Agent，还是搞 React / UniApp 的跨端开发，只要遇到好玩的技术或是难啃的 Bug，我都愿意花时间去拆解、试错和重构。日常喜欢在终端（Terminal）里解决问题，追求干净的代码和极致的效率。
 
-<tr><td>
+### 🎯 最近在折腾什么？
 
-### 🎯 近期关注
+- 🤖 **与大模型"深度拥抱"**：正在探索如何将传统的"古法技术架构"与 AI 结合，打破常规，给旧业务和老系统注入全新的生命力与自动化工作流（重点折腾 Skill 与 MCP 协议）。
+- 🪄 **用 AI 补齐全栈拼图**：疯狂压榨大模型的代码生成能力，借助 AI 来弥补自己在前端细节上的短板，打破技术栈边界，真正做到"一个人活成一支队伍"。
+- ⚡ **主打一个"想到就做"**：没有那么多沉重的长远规划，纯粹的行动派。脑子里冒出什么好玩的 idea，直接打开终端就是干，享受灵感闪现并亲手将它实现的纯粹乐趣。
 
-<img align="right" width="88" src="./assets/images/astronaut.png" />
+### 🛠️ 常用兵器库
 
-- 🔧 **大型工具链重构**：推进核心业务代码的架构重构计划
-- 🤖 **Agent 框架工程化**：探索 Skill 与 MCP 在实际开发场景中的落地
-- 📱 **移动端分发与部署**：打通 iOS/Android 端应用的完整打包与自动化上架工作流
+* **后端**：Go / Python / PHP (ThinkPHP)
+* **前端 & 跨端**：React / UniApp / Flutter / TS
+* **运维 & 环境**：Linux (Ubuntu) / Docker / Mac 环境深度调教
 
-</td></tr>
-</table>
+---
 
 <img width="200%" src="./assets/images/hr.gif" />
 
 <div align="center">
-
-<img src="./assets/images/man_run.png" width="250" height="250" />
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
 
 <img align="left" width="150" src="./assets/images/left.png" />
 <picture>
@@ -68,21 +36,7 @@
 </picture>
 <img align="right" width="150" src="./assets/images/right.png" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=liangshangchen&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=liangshangchen&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liangshangchen&theme=xcode&bg_color=FF000000&hide_border=true" />
-</picture>
-
-</div>
-
-<img width="200%" src="./assets/images/hr.gif" />
-
-<div align="center">
-
-<img src="./assets/images/mb.png" width="250" height="250" />
-
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<br><br>
 
 <table>
   <tr>
@@ -95,54 +49,12 @@
 
 <img width="200%" src="./assets/images/hr.gif" />
 
-<div align="center">
+---
 
-<img src="./assets/images/man.png" width="250" height="250" />
-
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat)
-![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
-
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-
-<img src="https://skillicons.dev/icons?i=go,python,php,react,flutter,docker,linux,ubuntu,vscode,git,nginx,postgres,redis" /><br>
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/go-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<img height="100" width="100" src="./assets/images/python.webp">
-<img height="100" width="100" src="./assets/images/vscode.webp">
-<img height="100" width="100" src="./assets/images/react.webp">
-<img height="100" width="100" src="./assets/images/js.webp">
-<img height="100" width="100" src="./assets/images/github.webp">
-
-</div>
-
-<img width="200%" src="./assets/images/hr.gif" />
+*废话不多说，代码见真章。*
 
 <div align="center">
-
-<div align="center">
-
 <a href="mailto:liangshangchenbro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-liangshangchenbro%40gmail.com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/邮箱-liangshangchenbro%40gmail.com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
-
 </div>
-
-</div>
-
-<img width="200%" src="./assets/images/hr.gif" />
