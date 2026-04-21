@@ -2,6 +2,12 @@
 
 > **<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=550&separator=%7C&lines=echo+%22Hello+Agent%22%7Cprint%28%22Hello+Agent%22%29%7Cconsole.log%28%22Hello+Agent%22%29%3B%7Cfmt.Println%28%22Hello+Agent%22%29%3B%7CSystem.out.println%28%22Hello+Agent%22%29%3B%7CThe+boundary+of+code+is+the+boundary+of+thought." alt="Typing SVG" /></a>**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 ### 🤺 关于我
 
 > **"不吹不黑，单纯热爱折腾和研究技术。前后端通吃，对未知领域始终保持好奇。"**
@@ -35,4 +41,6 @@
 <a href="mailto:liangshangchenbro@gmail.com">
   <img src="https://img.shields.io/badge/邮箱-liangshangchenbro%40gmail.com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
+<br><br>
+<img src="./assets/images/icon.png" width="100" />
 </div>
