@@ -42,5 +42,5 @@
   <img src="https://img.shields.io/badge/邮箱-liangshangchenbro%40gmail.com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
 <br><br>
-<img src="./assets/images/icon.png" width="100" />
+<img src="./assets/images/icon.png" width="100%" />
 </div>
