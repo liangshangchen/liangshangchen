@@ -11,31 +11,31 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="mailto:liangshangchenbro@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335" /></a>&emsp;
+  <a href="mailto:liangshangchenbro@gmail.com"><img src="https://img.shields.io/badge/邮箱-Gmail-EA4335" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=liangshangchen&label=Views&color=blueviolet&style=flat" alt="访问量统计" />&emsp;
 </div>
 
 </div>
 
-# 🙋 Hello
+# 🙋 你好
 
 <table>
 <tr><td>
 
-### 🤺 About Me
+### 🤺 关于我
 
 <img align="right" width="88" src="./assets/images/jobs.png" />
 
 <p>&emsp;&emsp;你好，我是梁上尘（Liang Shangchen），一个实战派的全栈/后端开发者。</p>
 <p>&emsp;&emsp;目前主要聚焦于高并发系统重构、容器化架构以及基于大模型的自动化工作流构建。</p>
 <p>&emsp;&emsp;喜欢在 Linux (Ubuntu) 环境下用命令行解决问题，追求代码的极致结构与执行效率。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;<strong>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</strong></p>
 
 </td></tr>
 
 <tr><td>
 
-### 🎯 Current Focus
+### 🎯 近期关注
 
 <img align="right" width="88" src="./assets/images/astronaut.png" />
 
