@@ -15,12 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=liangshangchen&label=Views&color=blueviolet&style=flat" alt="访问量统计" />&emsp;
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 
 # 🙋 Hello
@@ -140,8 +134,6 @@
 <img width="200%" src="./assets/images/hr.gif" />
 
 <div align="center">
-
-<img width="36%" src="./assets/images/githubgif.gif" />
 
 <div align="center">
 
